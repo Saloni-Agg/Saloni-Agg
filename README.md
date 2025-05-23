@@ -6,7 +6,7 @@ I'm <a href="https://www.linkedin.com/in/saloni-aggarwal-8a195648/" target="_bla
 </h1>
 
 <h2 align="center">
-I'm a Certified Data Analyst & Scientist 💻
+I'm a Statistician & Data Analyst 💻
 </h2> 
 
 I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases various Python, PostgreSQL, Machine Learning, Data Analytics, NLP, Computer vision projects that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
